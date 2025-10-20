@@ -1,2 +1,2 @@
-jupyter-ai
-openai
+jupyterlab>=4.0.0
+jupyter-ai[openai]
