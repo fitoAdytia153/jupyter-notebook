@@ -1,0 +1,2 @@
+jupyter labextension disable "@jupyterlab/apputils-extension:announcements"
+jupyter lab build
